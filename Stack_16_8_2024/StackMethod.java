@@ -1,7 +1,6 @@
 package Stack_16_8_2024;
 
 public class StackMethod {
-    // Inner class Stack
     public class Stack {
         static final int MAX = 1000;
         public int top;

@@ -4,7 +4,7 @@ import Stack_16_8_2024.StackMethod.Stack;
 
 public class main {
     public static void main(String[] args) {
-        StackMethod.Stack s = new StackMethod().new Stack(); // Create a new instance of Stack
+        StackMethod.Stack s = new StackMethod().new Stack();
         s.push(10);
         s.push(20);
         s.push(30);
